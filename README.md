@@ -1,3 +1,3 @@
 # linkedList
-Task-example of linked list.
+Task-example of the linked list.
 Written on JavaScript.
