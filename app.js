@@ -30,3 +30,14 @@ class linkedList {
     return node;
   }
 }
+
+
+let node1 = new Node();
+let node2 = new Node();
+let linkedList1 = new linkedList();
+linkedList1.add("node1");
+linkedList1.add("node2");
+linkedList1.add("node3");
+linkedList1.add("node4");
+linkedList1.add("node5");
+console.log(linkedList1);
