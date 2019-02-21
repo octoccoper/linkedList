@@ -1,13 +1,13 @@
 class Node {
   constructor(value, next) {
-    this.value = value, // Some data that we stored in the link element
-    this.next = next // Pointer to the next element
+    this.value = value; // Some data that we stored in the link element
+    this.next = next; // Pointer to the next element
   }
 }
 
 class linkedList {
   constructor(head) {
-    this.head = null // Pointer to the first element in the linked list
+    this.head = null; // Pointer to the first element in the linked list
   }
 
   add(value) {
