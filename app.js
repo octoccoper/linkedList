@@ -31,9 +31,6 @@ class linkedList {
   }
 }
 
-
-let node1 = new Node();
-let node2 = new Node();
 let linkedList1 = new linkedList();
 linkedList1.add("node1");
 linkedList1.add("node2");
